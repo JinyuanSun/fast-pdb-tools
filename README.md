@@ -23,8 +23,12 @@ To compare with biopython:
 
 ```bash
 # pip install bio
+# my env: python=3.8.13, biopython=1.79
 cd example
 python test.py
+
+Time taken by C++: 0.21043920516967773
+Time taken by Python: 2.1490983963012695
 ```
 
 ## Dev log
